@@ -1,3 +1,3 @@
-# ar-test
+# ar-pwa-sample
 
-https://qiita.com/sakaryu/items/769a2a538baf7e4ee1c7
+ARをPWAで作るサンプル
